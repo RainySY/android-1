@@ -27,7 +27,6 @@ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 sudo cp ~/bin/repo /bin/repo
 sudo chmod a+x /bin/repo
 ```
-
 ### 设置Git用户名及邮箱（替换成自己的）：
 ```shell
 git config --global user.email "xxx@xxx.com"
